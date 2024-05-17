@@ -18,16 +18,15 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ren9901&theme=github-compact&hide_border=true&area=true">
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ren9901&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats 没显示等显示在取消注解 -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ren9901&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren9901&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=java,spring,mysql,maven,linux,html,css,js,ts,md,vue,vite,webpack,sass,git,jenkins,docker,idea,vscode,discord,eclipse&theme=light" />
 </p>
-
-
+<br/>
 <p align="center">
 <a href="https://github.com/ren9901"><img src="https://img.shields.io/badge/GitHub-ren9901-blue?logo=github" /></a>
 <a href="https://www.renxiansheng.top"><img src="https://img.shields.io/badge/个人博客-renxiansheng.top-brightgreen.svg" /></a>
