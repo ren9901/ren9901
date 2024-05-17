@@ -1,6 +1,8 @@
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Start a wonderful day&fontSize=70&fontAlign=50&fontAlignY=30&desc=ren9901&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Start%20a%20wonderful%20day!&fontSize=70&fontAlign=50&fontAlignY=30&desc=ren9901&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
+
 
 
 <p align="center">
